@@ -1,0 +1,14 @@
+.blogHeader {
+  text-decoration: underline;
+}
+.articleContainer {
+  margin: 1rem;
+  margin-left: 0rem;
+}
+.articleTitle {
+  margin-bottom: 0.5rem;
+  .articleDate {
+    color: gray;
+    font-size: smaller;
+  }
+}
