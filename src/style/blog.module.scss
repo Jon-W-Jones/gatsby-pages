@@ -12,3 +12,13 @@
     font-size: smaller;
   }
 }
+.paginationContainer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  max-width: 40%;
+  margin: 0, auto;
+}
+.postCountSubheader {
+  font-weight: 600;
+}
